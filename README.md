@@ -9,18 +9,21 @@ Analysis of Netflix Movies and TV Shows using:
 - Python
 - Power BI
 
-## Dataset
+## Dashboard
 
-Netflix Movies and TV Shows Dataset
+![Dashboard](python/dashboard.png)
 
-## Tools Used
+## Top Countries
 
-- Excel
-- MySQL
-- Python
-- Pandas
-- Matplotlib
-- Power BI
+![Top Countries](python/Topcountry.png)
+
+## Yearly Growth
+
+![Yearly Growth](python/yearly_growth.png)
+
+## Rating Distribution
+
+![Rating Distribution](python/rating_distribution.png)
 
 ## Key Insights
 
@@ -29,16 +32,6 @@ Netflix Movies and TV Shows Dataset
 - Content growth accelerated after 2015.
 - TV-MA is the most common rating.
 - Top directors contribute significant content volume.
-
-## Dashboard
-
-(Add dashboard screenshot)
-## Top Countries
-
-![Top Countries](python/## Top Countries
-
-![Top Countries](python/charts/top_10_countries.png)
-)
 
 ## Project Workflow
 
