@@ -33,6 +33,12 @@ Netflix Movies and TV Shows Dataset
 ## Dashboard
 
 (Add dashboard screenshot)
+## Top Countries
+
+![Top Countries](python/## Top Countries
+
+![Top Countries](python/charts/top_10_countries.png)
+)
 
 ## Project Workflow
 
